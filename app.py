@@ -12,6 +12,13 @@ from functools import lru_cache
 from flask import Flask, render_template, request, jsonify
 import requests
 
+# Load .env file if available
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 app = Flask(__name__)
 
 # Load site data
@@ -31,7 +38,7 @@ SITE_DATA = load_site_data()
 OPENROUTER_API_KEY = os.getenv('OPENROUTER_API_KEY')
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL = os.getenv('OPENROUTER_MODEL', 'openrouter/owl-alpha')
-REQUEST_TIMEOUT = int(os.getenv('REQUEST_TIMEOUT', 30))
+REQUEST_TIMEOUT = int(os.getenv('REQUEST_TIMEOUT', 60))
 MAX_TOKENS = int(os.getenv('MAX_TOKENS', 800))
 
 # ============================================================
@@ -284,11 +291,11 @@ def build_system_prompt():
         "CONTACTOS: " + contactos.get('email', 'infoformacao@anje.pt') + " | " + contactos.get('telefone_fixo', '(+351) 220 108 074') + " | " + contactos.get('telefone_movel', '(+351) 939 820 134') + "\n"
         "MORADA: " + contactos.get('morada', 'Rua do Conde de Redondo, 91-B, 1150-103 Lisboa') + "\n"
         "\n"
-        "EQUIPA E ORGAOS SOCIAIS:\n"
-        "- Quando perguntarem sobre equipa, orgaos sociais, direcao, coordenadores, administrativos, comunicacao, presidente, vice-presidente, conselho fiscal, assembleia geral: usa os dados fornecidos no contexto da pergunta\n"
-        "- Formato: lista com **nome** - cargo (regiao se aplicavel)\n"
-        "- Se perguntarem sobre pessoa especifica, da info direta\n"
-        "- Nao listes cursos para perguntas sobre equipa/orgaos\n"
+        "=== EQUIPA ANJE FORMACAO (usa estes dados, nao inventes) ===\n"
+        + build_equipa_full_text() + "\n"
+        "\n"
+        "=== ORGAOS SOCIAIS DA ANJE (usa estes dados, nao inventes) ===\n"
+        + build_orgaos_full_text() + "\n"
         "\n"
         "CURSOS: " + str(len(cursos)) + " (" + str(len(pagos)) + " pagos, " + str(len(gratis)) + " gratuitos)\n"
         "Modalidades: " + ', '.join(mods[:4]) + "\n"
@@ -296,8 +303,12 @@ def build_system_prompt():
         "\n"
         "REGRAS:\n"
         "- Portugues de Portugal\n"
-        "- Equipa/orgaos: usa dados fornecidos, formato lista com bullets\n"
-        "- Cursos: usa dados recebidos\n"
+        "- Quando perguntarem sobre equipa/orgaos/pessoas: USA OS DADOS ACIMA, nao inventes\n"
+        "- Se a pergunta for sobre mesa da assembleia, conselho fiscal, presidente, vice-presidente, assembleia geral: mostra os ORGAOS SOCIAIS\n"
+        "- Se a pergunta for sobre equipa, coordenadores, administrativos, comunicacao, formacao: mostra a EQUIPA\n"
+        "- Se perguntarem sobre pessoa especifica: responde de forma concisa com nome e cargo\n"
+        "- Nao listes cursos para perguntas sobre equipa/orgaos\n"
+        "- Cursos: usa dados recebidos na pergunta\n"
         "- **negrita** para titulos/nomes\n"
         "- Link completo: https://anjeformacao.pt/curso/...\n"
         "- Formato cursos: **Titulo** - Preco: XX | Data: DD-MM\n"
