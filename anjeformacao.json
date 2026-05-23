@@ -1,0 +1,834 @@
+{
+  "site": "anjeformacao.pt",
+  "descricao": "ANJE Formação - Formação Profissional Certificada para empreendedores e empresas",
+  "institucional": {
+    "sobre": "A ANJE é uma associação de direito privado e utilidade pública que representa os jovens empresários portugueses e os apoia na sua atividade empresarial.",
+    "sobre_formacao": "A ANJE Formação está presente nas 5 regiões administrativas do país, desenvolvendo formação para todo o território nacional de forma adaptada às necessidades de desenvolvimento regional. Entidade formadora certificada pela DGERT em 21 áreas de formação.",
+    "missao": "Formação Profissional Certificada para empreendedores e empresas",
+    "fundacao": "1986",
+    "tipo": "Associação de direito privado e utilidade pública",
+    "certificacao": "Entidade formadora certificada pela DGERT em 21 áreas de formação",
+    "areas_tematicas": [
+      "Ciências Empresariais",
+      "Empreendedorismo e Desenvolvimento Pessoal",
+      "Novas Tecnologias e Transformação Digital",
+      "Inovação e Sustentabilidade"
+    ],
+    "impacto": "Milhares de pessoas beneficiam anualmente da ação qualificante ANJE Formação"
+  },
+  "contactos": {
+    "email": "infoformacao@anje.pt",
+    "telefone_fixo": "(+351) 220 108 074",
+    "telefone_movel": "(+351) 939 820 134",
+    "whatsapp": true,
+    "morada": "Rua do Conde de Redondo, 91-B, 1150-103 Lisboa"
+  },
+  "areas_formacao": [
+    "Empreendedorismo e Inovação",
+    "Gestão Estratégica e Empresarial",
+    "Comunicação",
+    "Marketing e Eventos",
+    "Comportamento e desenvolvimento pessoal",
+    "Programas Executivos",
+    "Inteligência Artificial e Tecnologia",
+    "Gestão e Administração",
+    "Vendas e Comercial",
+    "Finanças e Contabilidade",
+    "Jurídico",
+    "Competências Digitais",
+    "Certificações Profissionais",
+    "Hotelaria e Turismo",
+    "Segurança e Saúde no Trabalho"
+  ],
+  "modalidades": [
+    "Formação Financiada",
+    "Formação não Financiada",
+    "Online (síncrona e assíncrona)",
+    "Presencial",
+    "Blended",
+    "UFCD",
+    "EFA",
+    "Programas Executivos"
+  ],
+  "regioes": [
+    "Norte",
+    "Centro",
+    "Lisboa",
+    "Alentejo",
+    "Algarve"
+  ],
+  "programas_especiais": [
+    "Bolsas de Formadores",
+    "Formação à Medida para Empresas",
+    "e-Learning by ANJE Formação",
+    "Academia de Liderança"
+  ],
+  "equipa": {
+    "direcao": [
+      {
+        "nome": "Ana Jogo Mendes",
+        "cargo": "Diretora ANJE Formação"
+      }
+    ],
+    "coordenadores_formacao": [
+      {
+        "nome": "Cláudia Almeida",
+        "cargo": "Coordenadora de Formação"
+      },
+      {
+        "nome": "Cristiana Moreira",
+        "cargo": "Coordenadora de Formação"
+      },
+      {
+        "nome": "Manuela Almeida",
+        "cargo": "Coordenadora de Formação"
+      },
+      {
+        "nome": "Vitória Pereira",
+        "cargo": "Coordenadora de Formação"
+      },
+      {
+        "nome": "Ana Rodrigues",
+        "cargo": "Coordenadora de Formação",
+        "regiao": "Lisboa"
+      },
+      {
+        "nome": "Armanda Ângelo",
+        "cargo": "Coordenadora de Formação",
+        "regiao": "Coimbra"
+      },
+      {
+        "nome": "Cátia Santos",
+        "cargo": "Coordenadora de Formação",
+        "regiao": "Algarve"
+      },
+      {
+        "nome": "Patrícia Nobre",
+        "cargo": "Coordenadora de Formação",
+        "regiao": "Alentejo"
+      }
+    ],
+    "administrativos": [
+      {
+        "nome": "Sara Almeida",
+        "cargo": "Administrativa de Formação"
+      },
+      {
+        "nome": "Susana Pereira",
+        "cargo": "Administrativa de Formação"
+      },
+      {
+        "nome": "Fátima Pinto",
+        "cargo": "Administrativa de Formação",
+        "regiao": "Coimbra"
+      }
+    ],
+    "comunicacao_marketing": [
+      {
+        "nome": "Teresa Miranda",
+        "cargo": "Comunicação e Marketing"
+      }
+    ]
+  },
+  "orgaos_sociais": {
+    "direcao_nacional": [
+      {
+        "nome": "Carlos Carvalho",
+        "cargo": "Presidente da Direção Nacional"
+      },
+      {
+        "nome": "Nuno Malheiro",
+        "cargo": "Vice-Presidente da Direção Nacional"
+      },
+      {
+        "nome": "Filipa Pinto de Carvalho",
+        "cargo": "Vice-Presidente da Direção Nacional"
+      },
+      {
+        "nome": "Gonçalo Simões de Almeida",
+        "cargo": "Vice-Presidente da Direção Nacional"
+      },
+      {
+        "nome": "Filipe Quinaz",
+        "cargo": "Diretor Nacional"
+      },
+      {
+        "nome": "Miguel Teixeira Bastos",
+        "cargo": "Diretor Nacional"
+      },
+      {
+        "nome": "Sofia Correia de Sousa",
+        "cargo": "Diretora Nacional"
+      },
+      {
+        "nome": "Tiago Araújo",
+        "cargo": "Diretor Nacional"
+      },
+      {
+        "nome": "Antonio Fragateiro",
+        "cargo": "Diretor Nacional Norte"
+      },
+      {
+        "nome": "Beatriz Almeida",
+        "cargo": "Diretora Nacional Centro"
+      },
+      {
+        "nome": "Tiago Abalroado",
+        "cargo": "Diretor Nacional Alentejo"
+      },
+      {
+        "nome": "Pedro Marcelino",
+        "cargo": "Diretor Nacional Algarve"
+      },
+      {
+        "nome": "Camilo Ferreira",
+        "cargo": "Diretor Nacional Lisboa e Vale do Tejo"
+      },
+      {
+        "nome": "João Pestana de Vasconcelos",
+        "cargo": "Diretor Nacional Suplente"
+      },
+      {
+        "nome": "Diogo Teixeira",
+        "cargo": "Diretor Nacional Suplente"
+      }
+    ],
+    "mesa_assembleia_geral": [
+      {
+        "nome": "Miguel Moreira da Silva",
+        "cargo": "Presidente da Assembleia Geral"
+      },
+      {
+        "nome": "Ricardo Santos Lopes",
+        "cargo": "Vice-Presidente da Assembleia Geral"
+      },
+      {
+        "nome": "Paula Melo",
+        "cargo": "Secretária da Assembleia Geral"
+      },
+      {
+        "nome": "Gonçalo Sá",
+        "cargo": "Suplente da Assembleia Geral"
+      },
+      {
+        "nome": "Diogo Pinheiro",
+        "cargo": "Suplente da Assembleia Geral"
+      }
+    ],
+    "conselho_fiscal": [
+      {
+        "nome": "Catarina Azevedo",
+        "cargo": "Presidente do Conselho Fiscal"
+      },
+      {
+        "nome": "Pedro Cardoso",
+        "cargo": "Vice-Presidente do Conselho Fiscal"
+      },
+      {
+        "nome": "Sofia Xavier",
+        "cargo": "Vogal do Conselho Fiscal"
+      },
+      {
+        "nome": "Vitor Almeida",
+        "cargo": "Vogal do Conselho Fiscal"
+      },
+      {
+        "nome": "Gonçalo Abreu",
+        "cargo": "Vogal do Conselho Fiscal"
+      },
+      {
+        "nome": "José Miguel Oliveira",
+        "cargo": "Suplente do Conselho Fiscal"
+      },
+      {
+        "nome": "Manuela Borges",
+        "cargo": "Suplente do Conselho Fiscal"
+      }
+    ]
+  },
+  "cursos_lista": [
+    {
+      "titulo": "Como elaborar um Plano de Negócios |  Formação Assíncrona",
+      "preco": "€150,00",
+      "data": "25-05-2026",
+      "url": "https://anjeformacao.pt/curso/como-elaborar-um-plano-de-negocios-formacao-assincrona/"
+    },
+    {
+      "titulo": "Programa Executivo Vendedor de Alta Performance | Online",
+      "preco": "€280,00",
+      "data": "25-05-2026",
+      "url": "https://anjeformacao.pt/curso/programa-executivo-vendedor-de-alta-performance/"
+    },
+    {
+      "titulo": "RGPD para Gestores e Empreendedores |  Formação Assíncrona",
+      "preco": "€180,00",
+      "data": "26-05-2026",
+      "url": "https://anjeformacao.pt/curso/rgpd-para-gestores-e-empreendedores-formacao-assincrona/"
+    },
+    {
+      "titulo": "Direito das Sociedades – Constituição de Empresas | Formação Assíncrona",
+      "preco": "€175,00",
+      "data": "26-05-2026",
+      "url": "https://anjeformacao.pt/curso/direito-das-sociedades-constituicao-de-empresas-formacao-assincrona/"
+    },
+    {
+      "titulo": "Gestão de correio eletrónico e pesquisa de informação na web &#8211; UFCD 0693 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "27-05-2026",
+      "url": "https://anjeformacao.pt/curso/gestao-de-correio-eletronico-e-pesquisa-de-informacao-na-web-ufcd-0693-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Inteligência Emocional para a Motivação e Tomada de Decisão | Online",
+      "preco": "€480,00",
+      "data": "28-05-2026",
+      "url": "https://anjeformacao.pt/curso/inteligencia-emocional-para-a-motivacao-e-tomada-de-decisao-online/"
+    },
+    {
+      "titulo": "Executar operações de controlo de tesouraria &#8211; UC 02777 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "28-05-2026",
+      "url": "https://anjeformacao.pt/curso/executar-operacoes-de-controlo-de-tesouraria-uc-02777-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Implementar práticas de gestão do tempo e organização do trabalho &#8211; UC00458 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "01-06-2026",
+      "url": "https://anjeformacao.pt/curso/implementar-praticas-de-gestao-do-tempo-e-organizacao-do-trabalho-uc00458-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Direito Laboral para Gestores e Empreendedores | Formação Assíncrona",
+      "preco": "€190,00",
+      "data": "02-06-2026",
+      "url": "https://anjeformacao.pt/curso/direito-laboral-para-gestores-e-empreendedores-formacao-assincrona/"
+    },
+    {
+      "titulo": "Comunicar com Impacto | Online",
+      "preco": "€150,00",
+      "data": "02-06-2026",
+      "url": "https://anjeformacao.pt/curso/comunicar-com-impacto-online/"
+    },
+    {
+      "titulo": "Inteligência Artificial Aplicada &#8211; Claude AI | Online",
+      "preco": "€150,00",
+      "data": "16-06-2026",
+      "url": "https://anjeformacao.pt/curso/inteligencia-artificial-aplicada-claude-ai-online/"
+    },
+    {
+      "titulo": "Plano de negócio – criação de micronegócios &#8211; UFCD 7854 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "25-06-2026",
+      "url": "https://anjeformacao.pt/curso/plano-de-negocio-criacao-de-micronegocios-ufcd-7854-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Gerir plataformas de CRM &#8211; UC 02760  | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "25-06-2026",
+      "url": "https://anjeformacao.pt/curso/gerir-plataformas-de-crm-uc-02760-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Inovar para Crescer: Ferramentas de Gestão práticas para PME | Online",
+      "preco": "€180,00",
+      "data": "29-06-2026",
+      "url": "https://anjeformacao.pt/curso/inovar-para-crescer-ferramentas-de-gestao-praticas-para-pme-online/"
+    },
+    {
+      "titulo": "Microsoft Copilot aplicado ao contexto profissional | Online",
+      "preco": "€180,00",
+      "data": "30-06-2026",
+      "url": "https://anjeformacao.pt/curso/microsoft-copilot-aplicado-ao-contexto-profissional-online/"
+    },
+    {
+      "titulo": "Produzir documentos em folha de cálculo &#8211; UC 02775 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "07-07-2026",
+      "url": "https://anjeformacao.pt/curso/produzir-documentos-em-folha-de-calculo-uc-02775-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Inteligência Artificial Aplicada ao Setor Imobiliário | Online",
+      "preco": "€150,00",
+      "data": "13-07-2026",
+      "url": "https://anjeformacao.pt/curso/inteligencia-artificial-aplicada-ao-setor-imobiliario-online/"
+    },
+    {
+      "titulo": "Processar a venda através de meios interativos e/ou digitais &#8211; UC02681 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "14-07-2026",
+      "url": "https://anjeformacao.pt/curso/processar-a-venda-atraves-de-meios-interativos-e-ou-digitais-uc02681-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Inteligência Artificial Aplicada a Área Comercial | Online",
+      "preco": "€150,00",
+      "data": "14-09-2026",
+      "url": "https://anjeformacao.pt/curso/inteligencia-artificial-aplicada-a-area-comercial-online/"
+    },
+    {
+      "titulo": "RGPC na Prática: prevenir riscos, cumprir e reforçar a integridade | Online",
+      "preco": "€150,00",
+      "data": "21-09-2026",
+      "url": "https://anjeformacao.pt/curso/rgpc-na-pratica-prevenir-riscos-cumprir-e-reforcar-a-integridade-online/"
+    },
+    {
+      "titulo": "Felicidade nas Organizações: cultura, segurança psicológica e bem-estar sustentável  | Online",
+      "preco": "€135,00",
+      "data": "22-09-2026",
+      "url": "https://anjeformacao.pt/curso/felicidade-nas-organizacoes-cultura-seguranca-psicologica-e-bem-estar-sustentavel-online/"
+    },
+    {
+      "titulo": "Branqueamento de Capitais em Portugal: obrigações legais e implementação prática  | Online",
+      "preco": "€150,00",
+      "data": "28-09-2026",
+      "url": "https://anjeformacao.pt/curso/branqueamento-de-capitais-em-portugal-obrigacoes-legais-e-implementacao-pratica-online/"
+    },
+    {
+      "titulo": "Liderança Anti-Burnout: energia, limites e clareza na gestão de pessoas  | Online",
+      "preco": "€120,00",
+      "data": "13-10-2026",
+      "url": "https://anjeformacao.pt/curso/lideranca-anti-burnout-energia-limites-e-clareza-na-gestao-de-pessoas-online/"
+    },
+    {
+      "titulo": "Programa Executivo em Marketing Digital e E-commerce | Online",
+      "preco": "€1800,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/programa-executivo-em-marketing-digital-e-e-commerce/"
+    },
+    {
+      "titulo": "Gestão de correio eletrónico e pesquisa de informação na web &#8211; UFCD 0693 | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/gestao-de-correio-eletronico-e-pesquisa-de-informacao-na-web/"
+    },
+    {
+      "titulo": "Excel Avançado aplicado à Gestão &#8211; Extra CNQ | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/excel-avancado-aplicado-a-gestao-ufcd-342219-algarve/"
+    },
+    {
+      "titulo": "Criação de dashboards dinâmicos com PowerBI – Extra CNQ | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/criacao-de-dashboards-dinamicos-com-powerbi-ufcfd-341107-algarve/"
+    },
+    {
+      "titulo": "Instagram para Negócios &#8211; Extra CNQ | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/instagram-para-negocios-extra-catalogo-algarve/"
+    },
+    {
+      "titulo": "Marketing de Influência – Extra CNQ | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/marketing-de-influencia-extra-cnq-algarve/"
+    },
+    {
+      "titulo": "Certificação Icagile RH Ágil (ICP-HR) | Online",
+      "preco": "€1050,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/certificacao-icagile-rh-agil-icp-hr-online/"
+    },
+    {
+      "titulo": "Certificação em Gestão de Projetos | Online",
+      "preco": "€1360,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/certificacao-em-gestao-de-projetos-online/"
+    },
+    {
+      "titulo": "Programa Executivo em Vendas | Norte e Online",
+      "preco": "€1890,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/programa-executivo-em-vendas/"
+    },
+    {
+      "titulo": "Certificação International em Coaching Profissional | Norte e Online",
+      "preco": "€3870,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/certificacao-international-em-coaching-profissional-norte-e-online/"
+    },
+    {
+      "titulo": "Certificação International em PNL PRACTITIONER | Norte e Online",
+      "preco": "€2100,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/certificacao-international-em-pnl-practitioner-norte-e-online/"
+    },
+    {
+      "titulo": "Treino Intensivo em Liderança | Lisboa",
+      "preco": "€1750,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/treino-intensivo-de-lideranca-lisboa/"
+    },
+    {
+      "titulo": "Programa Executivo em Marketing Digital e E-business | Braga",
+      "preco": "€3625,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/programa-executivo-em-marketing-digital-e-e-business-norte/"
+    },
+    {
+      "titulo": "Inteligência Artificial – o que é e como funciona – Extra CNQ | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/inteligencia-artificial-o-que-e-e-como-funciona-ufcd-341109-algarve/"
+    },
+    {
+      "titulo": "Os Segredos das Apresentações de Sucesso | Norte",
+      "preco": "€275,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/os-segredos-das-apresentacoes-de-sucesso-norte/"
+    },
+    {
+      "titulo": "Como Gerir, Liderar e Motivar Equipas | Norte",
+      "preco": "€150,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/como-gerir-liderar-e-motivar-equipas-norte/"
+    },
+    {
+      "titulo": "Excel Iniciação – Extra CNQ | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/excel-iniciacao-extra-catalogo-algarve/"
+    },
+    {
+      "titulo": "Linkedin para Negócios – Extra CNQ | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/linkedin-para-negocios-extra-catalogo-algarve/"
+    },
+    {
+      "titulo": "PNL Basic Empresarial | Online",
+      "preco": "€297,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/pnl-basic-empresarial-online/"
+    },
+    {
+      "titulo": "Gestão de Projetos | Online",
+      "preco": "€190,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/gestao-de-projetos-online/"
+    },
+    {
+      "titulo": "O poder de um vendedor especialista: o Neuromarketing | Online",
+      "preco": "€60,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/o-poder-de-um-vendedor-especialista-o-neuromarketing-online/"
+    },
+    {
+      "titulo": "SEO &#8211; Search Engine Optimization | Online",
+      "preco": "€60,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/seo-search-engine-optimization-online/"
+    },
+    {
+      "titulo": "Programação Neurolinguística Empresarial | Porto",
+      "preco": "€297,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/programacao-neurolinguistica-empresarial-porto-14-de-marco/"
+    },
+    {
+      "titulo": "Introdução ao Python e a conceitos fundamentais em Machine Learning/AI | Online",
+      "preco": "€250,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/introducao-ao-python-e-a-conceitos-fundamentais-em-machine-learning-ai-online/"
+    },
+    {
+      "titulo": "IA Generativa como Ferramenta de Otimização dos Negócios | Online",
+      "preco": "€350,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/ia-generativa-como-ferramenta-de-optimizacao-dos-negocios-online/"
+    },
+    {
+      "titulo": "Gestão de Tempo e Gestão de E-mail | Norte",
+      "preco": "€110,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/gestao-de-tempo-e-gestao-de-e-mail-norte/"
+    },
+    {
+      "titulo": "Programa Executivo &#8211; Sensibilização para as boas práticas ESG | Online",
+      "preco": "€280,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/sensibilizacao-para-as-boas-practicas-esg-online/"
+    },
+    {
+      "titulo": "Introdução à utilização e proteção dos dados pessoais – UFCD 10672 | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/introducao-a-utilizacao-e-protecao-dos-dados-pessoais-ufcd-10672-algarve/"
+    },
+    {
+      "titulo": "Storytelling na Estratégia de Comunicação da Marca | Online",
+      "preco": "€150,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/storytelling-na-estrategia-de-comunicacao-da-marca-online/"
+    },
+    {
+      "titulo": "Liderança e Ferramentas para a Transformação Digital | Norte",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/lideranca-e-ferramentas-para-a-transformacao-digital-norte/"
+    },
+    {
+      "titulo": "Liderança e Ferramentas para a Transformação Digital | Alentejo",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/lideranca-e-ferramentas-para-a-transformacao-digital-alentejo/"
+    },
+    {
+      "titulo": "Liderança e Ferramentas para a Transformação Digital | Lisboa",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/lideranca-e-ferramentas-para-a-transformacao-digital-lisboa/"
+    },
+    {
+      "titulo": "Liderança e Ferramentas para a Transformação Digital | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/lideranca-e-ferramentas-para-a-transformacao-digital-algarve/"
+    },
+    {
+      "titulo": "Língua inglesa &#8211; e-marketing – UFCD 0447 | Alentejo &#8211; PESSOAS 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/lingua-inglesa-e-marketing-ufcd-0447-alentejo/"
+    },
+    {
+      "titulo": "Língua inglesa – turismo e hotelaria na região – UFCD 8307 | Alentejo &#8211; PESSOAS 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/lingua-inglesa-turismo-e-hotelaria-na-regiao-ufcd-8307-alentejo/"
+    },
+    {
+      "titulo": "Introdução à utilização e proteção dos dados pessoais &#8211; UFCD 10672 | Alentejo &#8211; PESSOAS 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/introducao-a-utilizacao-e-protecao-dos-dados-pessoais-ufcd-10672-alentejo/"
+    },
+    {
+      "titulo": "Ambiente, Segurança, Higiene e Saúde no Trabalho &#8211; conceitos básicos &#8211; UFCD 0349 | Alentejo – Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/ambiente-seguranca-higiene-e-saude-no-trabalho-conceitos-basicos-ufcd-0349-alentejo/"
+    },
+    {
+      "titulo": "Gestão de equipas  – UFCD 7844 | Alentejo &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/gestao-de-equipas-ufcd-7844-alentejo-pessoas-2030/"
+    },
+    {
+      "titulo": "Liderança e motivação de equipas – UFCD 5436 | Alentejo &#8211; PESSOAS 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/lideranca-e-motivacao-de-equipas-ufcd-5436-alentejo/"
+    },
+    {
+      "titulo": "Inteligência artificial – avançado – Extra CNQ | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/inteligencia-artificial-avancado-extra-cnq-algarve/"
+    },
+    {
+      "titulo": "Produtos financeiros básicos &#8211; UFCD 9821 | Centro &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/produtos-financeiros-basicos-ufcd-9821-centro/"
+    },
+    {
+      "titulo": "Poupança – conceitos básicos &#8211; UFCD 9822 | Centro &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/poupanca-conceitos-basicos-ufcd-9822-centro/"
+    },
+    {
+      "titulo": "PWIT &#038; ANJE Leadership Development Program | Norte",
+      "preco": "€1050,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/pwit-anje-leadership-development-program-norte/"
+    },
+    {
+      "titulo": "EFA NS de Técnico/a de Informação e Animação Turística (Dupla Certificação)",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/efa-ns-de-tecnico-a-de-informacao-e-animacao-turistica-dupla-certificacao/"
+    },
+    {
+      "titulo": "EFA PRO de Técnico/a de Secretariado (Nível IV)",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/efa-pro-de-tecnico-a-de-secretariado/"
+    },
+    {
+      "titulo": "EFA B3 de Operador/a de Distribuição (Dupla Certificação) | Norte",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/efa-b3-de-operador-a-de-distribuicao-dupla-certificacao-norte/"
+    },
+    {
+      "titulo": "Inteligência Artificial Aplicada aos Negócios &#8211; Extra CNQ | Centro",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/inteligencia-artificial-aplicada-aos-negocios-extra-cnq-centro/"
+    },
+    {
+      "titulo": "Inteligência Artificial Aplicada aos Negócios – Extra CNQ | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/inteligencia-artificial-aplicada-aos-negocios-extra-cnq-algarve/"
+    },
+    {
+      "titulo": "Criação de páginas para a web em hipertexto &#8211; UFCD 0792 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/criacao-de-paginas-para-a-web-em-hipertexto-ufcd-0792-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Controlo de tesouraria &#8211; UFCD 0673 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/controlo-de-tesouraria-ufcd-0673-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Informática &#8211; noções básicas &#8211; UFCD 7846 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/informatica-nocoes-basicas-ufcd-7846-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Processador de texto &#8211; funcionalidades avançadas &#8211; UFCD 0755 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/processador-de-texto-funcionalidades-avancadas-ufcd-0755-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Fundamentos da linguagem SQL &#8211; UFCD 10788 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/fundamentos-da-linguagem-sql-ufcd-10788-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Higiene e segurança alimentar &#8211; UFCD 3296 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/higiene-e-seguranca-alimentar-ufcd-3296-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Primeiros Socorros &#8211; UFCD 3564 | Centro &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/primeiros-socorros-ufcd-3564-centro-pessoas-2030/"
+    },
+    {
+      "titulo": "Prevenção e combate a incêndios &#8211; UFCD 4798 | Centro &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/prevencao-e-combate-a-incendios-ufcd-4798-centro-pessoas-2030/"
+    },
+    {
+      "titulo": "Inteligência Artificial para Potenciar Negócios e Otimizar o Dia a Dia | Odemira",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/inteligencia-artificial-para-potenciar-negocios-e-otimizar-o-dia-a-dia-algarve/"
+    },
+    {
+      "titulo": "Trendmarketing/ Marketing digital para pequenos negócios | Odemira",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/trendmarketing-marketing-digital-para-pequenos-negocios-algarve/"
+    },
+    {
+      "titulo": "Gestão do Tempo e Organização do Trabalho &#8211; UFCD 0382 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/gestao-do-tempo-e-organizacao-do-trabalho-ufcd-0382-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Inteligência Artificial: muito além do ChatGPT | Online",
+      "preco": "€135,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/inteligencia-artificial-muito-alem-do-chatgpt-online/"
+    },
+    {
+      "titulo": "Conceber e implementar a estratégia de marketing digital &#8211; UC 00277  | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/conceber-e-implementar-a-estrategia-de-marketing-digital-uc-00277-norte/"
+    },
+    {
+      "titulo": "Programar com sistemas de Inteligência Artificial &#8211; UC 00623 | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/programar-com-sistemas-de-inteligencia-artificial-uc-00623-algarve/"
+    },
+    {
+      "titulo": "Gerir os canais de comunicação digital &#8211; UC 00279 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/gerir-os-canais-de-comunicacao-digital-uc00279-norte/"
+    },
+    {
+      "titulo": "Gerir os canais de comunicação digital &#8211; UC 00279 | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/gerir-os-canais-de-comunicacao-digital-uc-00279-algarve/"
+    },
+    {
+      "titulo": "Produzir documentos em folha de cálculo &#8211; UC 02775 | Norte",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/produzir-documentos-em-folha-de-calculo-uc-02775-norte/"
+    },
+    {
+      "titulo": "Conduzir ao Fecho da Venda | Online",
+      "preco": "€135,00",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/conduzir-ao-fecho-da-venda-online/"
+    },
+    {
+      "titulo": "Produzir documentos em folha de cálculo &#8211; UC 02775 | Algarve",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/produzir-documentos-em-folha-de-calculo-uc-02775-algarve/"
+    },
+    {
+      "titulo": "Ambiente, Segurança, Higiene e Saúde no Trabalho &#8211; conceitos básicos &#8211; UFCD 0349 | Centro &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/ambiente-seguranca-higiene-e-saude-no-trabalho-conceitos-basicos-ufcd-0349-centro-pessoas-2030/"
+    },
+    {
+      "titulo": "Quero criar um negócio! E agora? Do plano à ação com o poder da IA | Online",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/quero-criar-um-negocio-e-agora-do-plano-a-acao-com-o-poder-da-ia-online/"
+    },
+    {
+      "titulo": "Aplicar storytelling na comunicação &#8211; UC00077 | Norte &#8211; Pessoas 2030",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/aplicar-storytelling-na-comunicacao-00077-norte-pessoas-2030/"
+    },
+    {
+      "titulo": "Conceber e implementar a estratégia de marketing digital &#8211; UC 00277  |  Centro",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/conceber-e-implementar-a-estrategia-de-marketing-digital-uc-00277-centro/"
+    },
+    {
+      "titulo": "Folha de cálculo – utilização intermédia | Centro",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/folha-de-calculo-utilizacao-intermedia-centro/"
+    },
+    {
+      "titulo": "EFA NS de Técnico/a de Turismo (Dupla Certificação) | Centro",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/efa-ns-de-tecnico-a-de-turismo-dupla-certificacao-centro/"
+    },
+    {
+      "titulo": "EFA PRO de Técnico/a de Turismo Ambiental e Rural | Norte",
+      "preco": "Gratuito",
+      "data": "Sob consulta",
+      "url": "https://anjeformacao.pt/curso/efa-pro-de-tecnico-a-de-turismo-ambiental-e-rural-norte/"
+    }
+  ],
+  "ultima_atualizacao": "2026-05-23 16:42:42"
+}
